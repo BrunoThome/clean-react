@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/BrunoThome/clean-react/issues"
   },
-  "homepage": "https://github.com/BrunoThome/clean-react#readme"
+  "homepage": "https://github.com/BrunoThome/clean-react#readme",
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "git-commit-msg-linter": "^4.5.0",
+    "typescript": "^3.8.3"
+  }
 }
